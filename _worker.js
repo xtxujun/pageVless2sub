@@ -5,8 +5,18 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
-	'icook.tw:2053#官方优选域名',
-	'cloudflare.cfgo.cc#优选官方线路',
+	'www.visa.com:80#1',
+	'cis.visa.com:8080#2',
+	'africa.visa.com:8880#3',
+	'www.visa.com.sg:2050#4',
+	'www.visaeurope.at:2082#5',
+	'www.visa.com.mt:2086#6',
+	'usa.visa.com:443#8',
+	'myanmar.visa.com:8443#9',
+	'www.visa.com.tw:2053#10',
+	'www.visaeurope.ch:2083#11',
+	'www.visa.com.br:2087#12',
+	'www.visa.com.br:2087#12',
 ];
 
 // 设置优选地址api接口
